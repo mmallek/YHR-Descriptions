@@ -152,7 +152,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1486984"
-     inkscape:cx="336.42236"
+     inkscape:cx="427.28447"
      inkscape:cy="282.07991"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
@@ -161,7 +161,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1007"
      inkscape:window-height="1038"
-     inkscape:window-x="34"
+     inkscape:window-x="753"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -763,7 +763,7 @@
          y="288.99225"
          x="77.307533"
          sodipodi:role="line"
-         id="tspan3290">  0-40     </tspan><tspan
+         id="tspan3290">  0-80     </tspan><tspan
          id="tspan3459"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="301.49225"
@@ -1267,7 +1267,7 @@
          sodipodi:role="line"
          x="382.23022"
          y="191.44476"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">  20-170 </tspan><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">  20-210 </tspan><tspan
          sodipodi:role="line"
          x="382.23022"
          y="203.94476"
@@ -1352,7 +1352,7 @@
          y="425.83591"
          x="389.89587"
          sodipodi:role="line"
-         id="tspan3427">  20-170 </tspan><tspan
+         id="tspan3427">  20-210 </tspan><tspan
          id="tspan3429"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="438.33591"
@@ -1627,23 +1627,18 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="644.29138"
-       y="339.10495"
+       x="646.29138"
+       y="349.10495"
        id="text4430"
        sodipodi:linespacing="125%"><tspan
-         id="tspan4432"
          sodipodi:role="line"
-         x="644.29138"
-         y="339.10495"
-         style="font-size:9px">Years in stage</tspan><tspan
-         sodipodi:role="line"
-         x="644.29138"
-         y="350.35495"
+         x="646.29138"
+         y="349.10495"
          style="font-size:9px"
-         id="tspan3366">80+ yrs, p=0.3</tspan><tspan
+         id="tspan3366">p=0.3</tspan><tspan
          sodipodi:role="line"
-         x="644.29138"
-         y="361.60495"
+         x="646.29138"
+         y="360.35495"
          style="font-size:9px"
          id="tspan4436" /></text>
     <text
