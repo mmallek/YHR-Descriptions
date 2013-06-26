@@ -152,17 +152,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.19"
-     inkscape:cx="555.96232"
-     inkscape:cy="128.61121"
+     inkscape:cx="433.39481"
+     inkscape:cy="263.06499"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1067"
-     inkscape:window-height="952"
-     inkscape:window-x="843"
-     inkscape:window-y="0"
+     inkscape:window-width="1070"
+     inkscape:window-height="750"
+     inkscape:window-x="186"
+     inkscape:window-y="1209"
      inkscape:window-maximized="0"
      units="in"
      inkscape:snap-to-guides="true"
@@ -794,7 +794,7 @@
          y="345.02466"
          x="75.350121"
          sodipodi:role="line"
-         id="tspan3439">  M: 0.0659  X: 0.0659</tspan><tspan
+         id="tspan3439">  M: 0.0690  X: 0.0690</tspan><tspan
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="356.27466"
          x="75.350121"
@@ -1237,7 +1237,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5012"
-       d="m 703.85603,136.61189 -0.78354,-38.172604 -548.06068,0 0.78354,-16.875736"
+       d="m 703.85603,138.61189 -0.78354,-38.1726 -548.06068,0 0.78354,-16.87574"
        style="fill:none;stroke:#ff0000;stroke-width:2.48213959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend);display:inline"
        sodipodi:nodetypes="cccc" />
     <text
@@ -1299,7 +1299,7 @@
          x="382.23022"
          y="251.56421"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan3441">  M: 0.2475   X: 0.2475</tspan><tspan
+         id="tspan3441">  M: 0.2435   X: 0.2435</tspan><tspan
          sodipodi:role="line"
          x="382.23022"
          y="262.81421"
@@ -1343,12 +1343,12 @@
          sodipodi:role="line"
          id="tspan3399"
          x="540.83429"
-         y="247.41142">M: p=0.2830</tspan><tspan
+         y="247.41142">M: p=0.3012</tspan><tspan
          id="tspan3401"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="540.83429"
-         y="258.66144">X: p=0.2830</tspan><tspan
+         y="258.66144">X: p=0.3012</tspan><tspan
          id="tspan3403"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
@@ -1370,7 +1370,7 @@
          x="479.04507"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan3409">X: p=0.5660</tspan><tspan
+         id="tspan3409">X: p=0.6024</tspan><tspan
          y="323.44116"
          x="479.04507"
          sodipodi:role="line"
@@ -1387,12 +1387,12 @@
          sodipodi:role="line"
          id="tspan3415"
          x="157.04498"
-         y="168.66005">M: p=0.1509</tspan><tspan
+         y="168.66005">M: p=0.0964</tspan><tspan
          id="tspan3417"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="157.04498"
-         y="179.91005">X: p=0.1509</tspan><tspan
+         y="179.91005">X: p=0.0964</tspan><tspan
          id="tspan3419"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
@@ -1445,7 +1445,7 @@
          y="483.91183"
          x="389.89587"
          sodipodi:role="line"
-         id="tspan3445">  M: 0.3175   X: 0.3175</tspan><tspan
+         id="tspan3445">  M: 0.3168   X: 0.3168</tspan><tspan
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="495.16183"
          x="389.89587"
@@ -1494,12 +1494,12 @@
          x="345.02341"
          id="tspan3457"
          sodipodi:role="line"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.1176</tspan><tspan
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.0741</tspan><tspan
          y="439.51013"
          x="345.02341"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan3460">X: p=0.1176</tspan><tspan
+         id="tspan3460">X: p=0.0741</tspan><tspan
          y="450.76013"
          x="345.02341"
          sodipodi:role="line"
@@ -1516,12 +1516,12 @@
          sodipodi:role="line"
          id="tspan3466"
          x="543.44507"
-         y="468.20065">M: p=0.8824</tspan><tspan
+         y="468.20065">M: p=0.9259</tspan><tspan
          id="tspan3468"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="543.44507"
-         y="479.45065">X: p=0.8824</tspan><tspan
+         y="479.45065">X: p=0.9259</tspan><tspan
          id="tspan3470"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
@@ -1591,7 +1591,7 @@
          sodipodi:role="line"
          x="615.86072"
          y="464.12878"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">  M: 0.2148   X: 0.2148</tspan><tspan
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">  M: 0.2092   X: 0.2092</tspan><tspan
          id="tspan4328"
          sodipodi:role="line"
          x="615.86072"
@@ -1685,7 +1685,7 @@
          y="242.98178"
          x="615.26288"
          sodipodi:role="line"
-         id="tspan4372">  M: 0.1543     X: 0.1543</tspan><tspan
+         id="tspan4372">  M: 0.1615     X: 0.1615</tspan><tspan
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="254.23178"
          x="615.26288"
@@ -1694,21 +1694,21 @@
     <text
        sodipodi:linespacing="125%"
        id="text4390"
-       y="125.14653"
+       y="127.14653"
        x="108.30983"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
        xml:space="preserve"><tspan
-         y="125.14653"
+         y="127.14653"
          x="108.30983"
          id="tspan4392"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.1453</tspan><tspan
-         y="136.39653"
+         y="138.39653"
          x="108.30983"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          id="tspan4394">X: p=0.1453</tspan><tspan
-         y="147.64653"
+         y="149.64653"
          x="108.30983"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
@@ -1724,12 +1724,12 @@
          sodipodi:role="line"
          id="tspan4400"
          x="785.38031"
-         y="241.76277">M: p=0.2137</tspan><tspan
+         y="241.76277">M: p=0.4274</tspan><tspan
          id="tspan4402"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="785.38031"
-         y="253.01277">X: p=0.2137</tspan><tspan
+         y="253.01277">X: p=0.4274</tspan><tspan
          id="tspan4404"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
@@ -1751,12 +1751,12 @@
          x="708.79651"
          id="tspan4408"
          sodipodi:role="line"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.6410</tspan><tspan
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.4274</tspan><tspan
          y="310.45062"
          x="708.79651"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan4410">X: p=0.6410</tspan><tspan
+         id="tspan4410">X: p=0.4274</tspan><tspan
          y="321.70062"
          x="708.79651"
          sodipodi:role="line"
@@ -1773,12 +1773,12 @@
          x="767.97491"
          id="tspan4416"
          sodipodi:role="line"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.8261</tspan><tspan
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">M: p=0.8879</tspan><tspan
          y="477.54257"
          x="767.97491"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan4418">X: p=0.8261</tspan><tspan
+         id="tspan4418">X: p=0.8879</tspan><tspan
          y="488.79257"
          x="767.97491"
          sodipodi:role="line"
@@ -1795,12 +1795,12 @@
          sodipodi:role="line"
          id="tspan4424"
          x="638.30463"
-         y="486.30881">M: p=0.1739</tspan><tspan
+         y="486.30881">M: p=0.1121</tspan><tspan
          id="tspan4426"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="638.30463"
-         y="497.55881">X: p=0.1739</tspan><tspan
+         y="497.55881">X: p=0.1121</tspan><tspan
          id="tspan4428"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
@@ -1926,18 +1926,18 @@
          id="tspan4470" /></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker-end:url(#Arrow2Mstart)"
-       d="m 746.64098,165.90253 53.52412,0 0,-91.176878 0,1.823536"
+       d="m 744.64098,165.90253 53.52412,0 0,-91.176878 0,1.823536"
        id="path4472"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
        id="text5062"
        y="159.95734"
-       x="803.63977"
+       x="801.63977"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
        xml:space="preserve"><tspan
          y="159.95734"
-         x="803.63977"
+         x="801.63977"
          sodipodi:role="line"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          id="tspan5068">A: p=0.1500</tspan></text>
@@ -1945,14 +1945,14 @@
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
        x="659.1911"
-       y="92.076248"
+       y="94.076248"
        id="text5075"
        sodipodi:linespacing="125%"><tspan
          id="tspan5077"
          style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="659.1911"
-         y="92.076248">A: p=0.0909</tspan></text>
+         y="94.076248">A: p=0.0909</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
