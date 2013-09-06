@@ -152,16 +152,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.14"
-     inkscape:cx="380.28311"
+     inkscape:cx="443.24609"
      inkscape:cy="304.11554"
      inkscape:document-units="in"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1294"
-     inkscape:window-height="892"
-     inkscape:window-x="204"
+     inkscape:window-width="905"
+     inkscape:window-height="960"
+     inkscape:window-x="20"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -216,15 +216,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="231.50879"
+       x="260.78613"
        y="122.81606"
        id="text4082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4084"
-         x="231.50879"
+         x="260.78613"
          y="122.81606"
-         style="font-size:20px">OAK Draft Disturbance-Succession Model</tspan></text>
+         style="font-size:20px">OAK Disturbance-Succession Model</tspan></text>
     <g
        id="g4030"
        transform="translate(-75.721049,0)">
@@ -739,7 +739,7 @@
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          x="463.40262"
-         y="421.46405">p=0.9259</tspan></text>
+         y="421.46405">p=0.9223</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
@@ -853,7 +853,7 @@
          y="385.62958"
          x="568.27014"
          sodipodi:role="line"
-         id="tspan3456">  60-80+</tspan><tspan
+         id="tspan3456">  60+</tspan><tspan
          id="tspan4366"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="400.62958"

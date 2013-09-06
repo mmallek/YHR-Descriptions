@@ -155,13 +155,13 @@
      inkscape:cx="390.18182"
      inkscape:cy="204.86507"
      inkscape:document-units="in"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1441"
-     inkscape:window-height="929"
-     inkscape:window-x="88"
+     inkscape:window-width="1067"
+     inkscape:window-height="972"
+     inkscape:window-x="612"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -224,7 +224,7 @@
          id="tspan4084"
          x="231.50879"
          y="222.81606"
-         style="font-size:20px">SAGE Draft Disturbance-Succession Model</tspan></text>
+         style="font-size:20px">SAGE Disturbance-Succession Model</tspan></text>
     <g
        id="g4211"
        transform="translate(-75.721049,0)">
@@ -902,7 +902,7 @@
            y="385.62958"
            x="568.27014"
            sodipodi:role="line"
-           id="tspan3261">  100-140</tspan><tspan
+           id="tspan3261">  100-150</tspan><tspan
            id="tspan3263"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
            y="400.62958"
@@ -994,7 +994,7 @@
          y="388.42673"
          x="653.91821"
          sodipodi:role="line"
-         id="tspan3297">  190+</tspan><tspan
+         id="tspan3297">  150+</tspan><tspan
          id="tspan3299"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          y="403.42673"
