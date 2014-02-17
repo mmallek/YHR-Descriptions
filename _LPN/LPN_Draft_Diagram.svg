@@ -152,7 +152,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0717735"
-     inkscape:cx="620.63648"
+     inkscape:cx="500.27523"
      inkscape:cy="435.06032"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
@@ -161,7 +161,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1309"
      inkscape:window-height="976"
-     inkscape:window-x="629"
+     inkscape:window-x="433"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -280,15 +280,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="191.06445"
+       x="214.81445"
        y="-103.94781"
        id="text4082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4084"
-         x="191.06445"
+         x="214.81445"
          y="-103.94781"
-         style="font-size:20px">LPN, LPN_ASP Draft Disturbance-Succession Models</tspan></text>
+         style="font-size:20px">LPN, LPN_ASP Disturbance-Succession Models</tspan></text>
     <rect
        style="opacity:0.96982757;fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1.20000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3406"
@@ -1544,7 +1544,7 @@
          sodipodi:role="line"
          x="633.03784"
          y="281.29456"
-         id="tspan3372">A: p=0.7591</tspan></text>
+         id="tspan3372">A: p=0.7727</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4414"
@@ -1702,7 +1702,7 @@
          x="606.87372"
          sodipodi:role="line"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
-         id="tspan5068">A: p=0.1500</tspan></text>
+         id="tspan5068">A: p=0.1364</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
@@ -1741,7 +1741,7 @@
          id="tspan5089">p=0.7</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
-       d="m 685.1693,180.90733 0,43.39513 -75.88534,0"
+       d="m 685.1693,178.90733 0,43.39513 -75.88534,0"
        id="path5293"
        inkscape:connector-curvature="0" />
     <text

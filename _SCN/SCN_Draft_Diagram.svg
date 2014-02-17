@@ -152,8 +152,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9983453"
-     inkscape:cx="413.87044"
-     inkscape:cy="367.89311"
+     inkscape:cx="479.33958"
+     inkscape:cy="327.82681"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -161,7 +161,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1264"
      inkscape:window-height="962"
-     inkscape:window-x="625"
+     inkscape:window-x="367"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -573,14 +573,15 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.25, 1.25;stroke-dashoffset:0;marker-start:url(#Arrow2Mstart);marker-end:none;display:inline"
-       d="m 450.32841,454.00717 30.74138,0 0,44.52199 -46.6421,0 0,-16.96076"
+       d="m 421.86403,353.31222 0,-30.74138 44.52199,0 0,46.6421 -16.96076,0"
        id="path9943"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path11477"
-       d="m 415.07218,254.81793 0,96.26057"
-       style="fill:none;stroke:#ff0000;stroke-width:2.21696544;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.10848273, 1.10848273;stroke-dashoffset:0;marker-end:url(#Arrow2Mend);display:inline" />
+       d="m 422.07052,253.8229 0,69.21582"
+       style="fill:none;stroke:#ff0000;stroke-width:2.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.125, 1.125;stroke-dashoffset:0;marker-end:none;display:inline"
+       sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path3987"
@@ -1179,18 +1180,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text3405"
-       y="253.48102"
-       x="442.0538"
+       y="251.57796"
+       x="399.87686"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
        xml:space="preserve"
        transform="scale(0.94995748,1.0526787)"><tspan
-         y="253.48102"
-         x="442.0538"
+         y="251.57796"
+         x="399.87686"
          id="tspan3407"
          sodipodi:role="line"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond">p=0.3333</tspan><tspan
-         y="265.98102"
-         x="442.0538"
+         y="264.07794"
+         x="399.87686"
          sodipodi:role="line"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          id="tspan3411" /></text>
@@ -1269,40 +1270,40 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="452.80441"
-       y="491.54047"
+       x="471.83591"
+       y="362.32666"
        id="text3464"
        sodipodi:linespacing="125%"><tspan
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
          id="tspan3466"
-         x="452.80441"
-         y="491.54047">p=0.4</tspan><tspan
+         x="471.83591"
+         y="362.32666">p=0.4</tspan><tspan
          id="tspan3468"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
-         x="452.80441"
-         y="504.04047" /><tspan
+         x="471.83591"
+         y="374.82666" /><tspan
          id="tspan3470"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
          sodipodi:role="line"
-         x="452.80441"
-         y="516.54047" /></text>
+         x="471.83591"
+         y="387.32666" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="453.4863"
-       y="387.19714"
+       x="452.48465"
+       y="405.22699"
        id="text3472"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3474"
-         x="453.4863"
-         y="387.19714"
+         x="452.48465"
+         y="405.22699"
          style="font-size:10px">p=0.45</tspan><tspan
          sodipodi:role="line"
-         x="453.4863"
-         y="399.69714"
+         x="452.48465"
+         y="417.72699"
          style="font-size:10px"
          id="tspan3478" /></text>
     <text

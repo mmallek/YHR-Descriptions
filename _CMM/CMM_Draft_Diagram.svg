@@ -152,16 +152,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1486984"
-     inkscape:cx="272.73168"
+     inkscape:cx="160.43066"
      inkscape:cy="277.69584"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1395"
-     inkscape:window-height="948"
-     inkscape:window-x="510"
+     inkscape:window-width="1600"
+     inkscape:window-height="1211"
+     inkscape:window-x="159"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -197,15 +197,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Garamond;-inkscape-font-specification:Garamond"
-       x="100.45898"
+       x="124.20898"
        y="86.052185"
        id="text4082"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4084"
-         x="100.45898"
+         x="124.20898"
          y="86.052185"
-         style="font-size:20px">CMM Draft Disturbance-Succession Model</tspan></text>
+         style="font-size:20px">CMM Disturbance-Succession Model</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Garamond;-inkscape-font-specification:Garamond"
@@ -836,7 +836,7 @@
              y="224.76016"
              x="383.07977"
              sodipodi:role="line"
-             id="tspan3268">  up to 80</tspan><tspan
+             id="tspan3268">  0-80</tspan><tspan
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Garamond;-inkscape-font-specification:Garamond"
              y="239.76016"
              x="383.07977"
